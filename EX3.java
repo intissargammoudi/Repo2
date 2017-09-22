@@ -13,7 +13,7 @@ public class EX3 extends JFrame{
 	public EX3(){
 //le jframe
 		this.setTitle("execice3");
-		this.setSize(300, 200);
+		this.setSize(300, 300);
 		this.setLayout(new FlowLayout());
 		this.init();
 		this.getContentPane().add(label);
